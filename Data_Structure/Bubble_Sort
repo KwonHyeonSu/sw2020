@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+void Bubble_Sort(int list [], int n);
+
+int main(void){
+	int Unsorted_List [6] = {23, 78, 45, 8, 32, 56};
+	int n = sizeof(Unsorted_List) / sizeof(int);
+	
+	Bubble_Sort(Unsorted_List, n);
+	
+	return 0;
+}
+
+void Bubble_Sort(int list [], int n){
+	int i, j, temp;
+	
+	for(i=n-1;i>0;i--){
+		for(j=0;j<i;j++){
+			if(list[j]>list[j+1]){
+				temp = list[j];
+				list[j] = list[j+1];
+				list[j+1] = temp;
+			}
+		}
+	}
+	
+	for(i=0;i<n;i++){
+		printf("%d ", list[i]);
+	}
+	
+}

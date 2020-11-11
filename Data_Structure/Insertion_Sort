@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+void Insertion_Sort(int list [], int n);
+
+int main(void){
+	
+	int Unsorted_List [6] = {23, 78, 45, 8, 32, 56};
+	int n = sizeof(Unsorted_List) / sizeof(int);
+	
+	Insertion_Sort(Unsorted_List, n);
+	
+	return 0;
+}
+
+void Insertion_Sort(int list [], int n){
+	int i, j, key;
+	
+	for(i=1;i<n;i++){
+		key = list[i];	
+		
+		for(j=i-1; j>=0 && list[j]>key ;j--){
+			list[j+1] = list[j];
+		}
+		list[j+1] = key;
+		
+	}
+	
+	for(i=0;i<n;i++){
+		printf("%d ", list[i]);
+	}
+}

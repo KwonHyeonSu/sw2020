@@ -1,0 +1,33 @@
+//Sequential_Search
+
+#include <stdio.h>
+#include <stdbool.h>
+
+void Sequential_Sort(int value, int list [], int n);
+
+int main(){
+	
+	int list [12] = {4, 21, 36, 14, 62, 91, 8, 22, 7, 81, 77, 10};
+	int n = sizeof(list) / sizeof(int);
+	
+	Sequential_Sort(7, list, n);
+	
+	return 0;
+}
+
+void Sequential_Sort(int value, int list [], int n){
+	int i;
+	bool found = false;
+	
+	for(i=0;i<n;i++){
+		if(value == list[i]){
+			printf("%d found!", value);
+			found = true;
+		}
+	}
+	
+	if(found == false){
+		printf("%d not found!", value);
+	}
+	
+}
