@@ -3,8 +3,8 @@
 ### 본 github page는 2020년 SW중심대학 전자공학부 연계전공(IT융합) 학생참여 평가에 증거자료로 제출하기 위해 생성된 repository입니다. 현재까지 학부생활을 해오며 진행한 활동들을 정리했습니다.   
 
 ## 교과목형   
-
-[COMP312 / 운영체제 / 2020 / 1학기 / 강순주](https://github.com/KwonHyeonSu/2020_1_Operating_System)  
+[COMP217 / 자바프로그래밍 / 2019 / 1학기 / 권혜진](https://github.com/KwonHyeonSu/2019_1_JavaProgramming)    
+[COMP312 / 운영체제 / 2020 / 1학기 / 강순주](https://github.com/KwonHyeonSu/2020_1_Operating_System)   
 [COME331 / 자료구조 / 2019 / 2학기 / 정임영](https://github.com/KwonHyeonSu/2019_2_DataStructure)  
 [COMP319 / 알고리즘 / 2020 / 1학기 / 장길진](https://github.com/KwonHyeonSu/2020_1_Algorithm)  
 
