@@ -32,6 +32,6 @@
 
 **연수기간** 2020.09 ~ 진행중  
 **참여연구실** 안상태 교수님, 뇌 인공지능 연구실   
-**참여활동** [[파이선 스터디 - 교재 : 모두의 딥러닝]](https://github.com/KwonHyeonSu/sw2020/tree/main/Python)  
+**참여활동** [[파이선 스터디 - 교재 : 모두의 딥러닝]](https://github.com/KwonHyeonSu/deep_Learning)  
 
 
