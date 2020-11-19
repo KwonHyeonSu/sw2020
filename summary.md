@@ -8,12 +8,6 @@
 [COME331 / 자료구조 / 2019 / 2학기 / 정임영](https://github.com/KwonHyeonSu/2019_2_DataStructure)  
 [COMP319 / 알고리즘 / 2020 / 1학기 / 장길진](https://github.com/KwonHyeonSu/2020_1_Algorithm)  
 
-## 연구실연수생형  
-
-**연수기간** 2020.09 ~ 진행중  
-**참여연구실** 안상태 교수님, 뇌 인공지능 연구실   
-**참여활동** [[파이선 스터디 - 교재 : 모두의 딥러닝]](https://github.com/KwonHyeonSu/sw2020/tree/main/Python)  
-
 ## 자율 과제형  
 
 ### [이미지 인식 기반 인공지능 자율주행 자동차](https://github.com/KwonHyeonSu/Hustar-HAI)  
@@ -21,7 +15,7 @@
 **기타 정보** 딥 러닝(tensorflow 라이브러리)을 이용한 이미지 인식 기반 인공지능 도로 자율주행 자동차 프로젝트 수행.  
 라즈베리 파이 3 이용 (여름방학기간)    
 
-### [해달 프로그래밍 동아리 유니티 트랙](https://github.com/KwonHyeonSu/HAE-U/blob/master/Lectures/L1.md)  
+### [해달 프로그래밍 동아리 유니티 트랙](https://github.com/KwonHyeonSu/HAE-U/blob/master/README.md)  
 
 **과제수행기간** 2019 03 ~  
 **기타 정보** 게임엔진으로 쓰이는 유니티 엔진 독학 스터디 및 현풍 소프트웨어 마이스터 고등학교(SW) 유니티 특강 활동   
@@ -33,5 +27,11 @@
 ### [Python_Self_Study](https://github.com/KwonHyeonSu/Python_Self_Study)
 **과제수행기간** 2020.06 ~ 2020.08  
 **기타 정보** [YouTube Python 강의 영상](https://www.youtube.com/watch?v=kWiCuklohdY&t=315s)을 시청하며 인공지능 기반 공부를 위한 Python Self Study.    
+
+## 연구실연수생형  
+
+**연수기간** 2020.09 ~ 진행중  
+**참여연구실** 안상태 교수님, 뇌 인공지능 연구실   
+**참여활동** [[파이선 스터디 - 교재 : 모두의 딥러닝]](https://github.com/KwonHyeonSu/sw2020/tree/main/Python)  
 
 
