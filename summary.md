@@ -12,7 +12,7 @@
 
 **연수기간** 2020.09 ~ 진행중  
 **참여연구실** 안상태 교수님, 뇌 인공지능 연구실   
-**참여활동** [[파이선 스터디 - 교재 : 모두의 딥러닝]](https://github.com/KwonHyeonSu/sw2020/tree/main/Python)  
+**참여활동** [[파이선 스터디 - 교재 : 모두의 딥러닝]](https://github.com/KwonHyeonSu/deep_Learning)  
 
 ## 자율 과제형  
 
@@ -33,5 +33,14 @@
 ### [Python_Self_Study](https://github.com/KwonHyeonSu/Python_Self_Study)
 **과제수행기간** 2020.06 ~ 2020.08  
 **기타 정보** [YouTube Python 강의 영상](https://www.youtube.com/watch?v=kWiCuklohdY&t=315s)을 시청하며 인공지능 기반 공부를 위한 Python Self Study.    
+
+## 경진대회형
+
+### [2020_Code Fair - Dijkstra Algorithm을 이용한 화재 대피 시스템 구현](https://github.com/KwonHyeonSu/2020_CodeFair)
+- 경진대회 일시/장소: 2020.11.27 / 경북대학교 IT 융복합관 345호
+- 주최기관명: SW 교육센터, PRIME 사업단, 해달(IT대학 학술동아리)
+- 수상내역: 진행중
+- 담당자명: , 053-950-xxxx, 010-xxxx-xxxx
+
 
 
