@@ -3,10 +3,11 @@
 ### 본 github page는 2020년 SW중심대학 전자공학부 연계전공(IT융합) 학생참여 평가에 증거자료로 제출하기 위해 생성된 repository입니다. 현재까지 학부생활을 해오며 진행한 활동들을 정리했습니다.   
 
 ## 교과목형   
-
-[COMP312 / 운영체제 / 2020 / 1학기 / 강순주](https://github.com/KwonHyeonSu/2020_1_Operating_System)  
+[COMP217 / 자바프로그래밍 / 2019 / 1학기 / 권혜진](https://github.com/KwonHyeonSu/2019_1_JavaProgramming)    
+[COMP312 / 운영체제 / 2020 / 1학기 / 강순주](https://github.com/KwonHyeonSu/2020_1_Operating_System)   
 [COME331 / 자료구조 / 2019 / 2학기 / 정임영](https://github.com/KwonHyeonSu/2019_2_DataStructure)  
 [COMP319 / 알고리즘 / 2020 / 1학기 / 장길진](https://github.com/KwonHyeonSu/2020_1_Algorithm)  
+
 
 ## 연구실연수생형  
 
@@ -21,7 +22,7 @@
 **기타 정보** 딥 러닝(tensorflow 라이브러리)을 이용한 이미지 인식 기반 인공지능 도로 자율주행 자동차 프로젝트 수행.  
 라즈베리 파이 3 이용 (여름방학기간)    
 
-### [해달 프로그래밍 동아리 유니티 트랙](https://github.com/KwonHyeonSu/HAE-U/blob/master/Lectures/L1.md)  
+### [해달 프로그래밍 동아리 유니티 트랙](https://github.com/KwonHyeonSu/HAE-U/blob/master/README.md)  
 
 **과제수행기간** 2019 03 ~  
 **기타 정보** 게임엔진으로 쓰이는 유니티 엔진 독학 스터디 및 현풍 소프트웨어 마이스터 고등학교(SW) 유니티 특강 활동   
